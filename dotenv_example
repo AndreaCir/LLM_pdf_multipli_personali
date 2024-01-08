@@ -1,0 +1,2 @@
+OPENAI_API_KEY= insert your personal api key, get it from https://platform.openai.com/api-keys
+HUGGINGFACEHUB_API_TOKEN= insert your personal apikey token, get it from https://huggingface.co/settings/tokens
